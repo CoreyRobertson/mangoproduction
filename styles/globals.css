@@ -842,7 +842,7 @@ nav {
   color: var(--color-orange);
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
   .header_container {
     display: flex;
     flex-direction: column;
