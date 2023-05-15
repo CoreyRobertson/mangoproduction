@@ -32,7 +32,7 @@ const ContactContents = () => {
                     <div className='contact_mail'>
                         <AiOutlineMail className='contact_icon' />
                         <p>
-                            Send us an email if you'd like to know more about what we have to offer.
+                            Send us an email of give us a call if you'd like to know more about what we have to offer.
                         </p>
                     </div>
                 </div>
