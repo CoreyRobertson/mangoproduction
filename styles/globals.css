@@ -1048,6 +1048,7 @@ nav {
 
   .contact_content-container {
     flex-direction: column;
+    gap: 0;
   }
 
   .contact_text-container {
